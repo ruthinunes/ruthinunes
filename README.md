@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/ruthinunes">
-  <img height="180em" width="40%"src="https://github-readme-stats.vercel.app/api?username=ruthinunes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/ style="max-width: 100%">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthinunes&layout=compact&langs_count=7&theme=midnight-purple"/ style="max-width: 100%">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=ruthinunes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/ style="max-width: 100%">
+  <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthinunes&layout=compact&langs_count=7&theme=midnight-purple"/ style="max-width: 100%">
 </div>
 
 ##
