@@ -1,4 +1,4 @@
-### Hi there I'm Pamela Nunes... but you can call me Ruthi  ☺️
+### Heeeey I'm Pamela Nunes... but you can call me Ruthi  ☺️
 
 ##
 
